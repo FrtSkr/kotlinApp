@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">myFirstProject</string>
+    <string name="textName_dice">Lütfen zar atınız</string>
+    <string name="buttonName_dice">Zar at</string>
+    <string name="buttonName_send">Data Göster</string>
+    <string name="textName_send">Data:</string>
+    <string name="dice">dice</string>
+    <string name="textName_second">Gelen data</string>
+</resources>
